@@ -140,6 +140,10 @@ cython_debug/
 
 # JetBrains
 .idea/
+venv
+example.py
+.flake8
+.DS_Store
 
 # staticfiles
 staticfiles/
